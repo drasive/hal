@@ -3,7 +3,7 @@
   <PropertyGroup>
     <VersionPrefix>0.999.0</VersionPrefix>
     <TargetFramework>net5.0</TargetFramework>
-    <AssemblyName>Hal.Tests</AssemblyName>
+    <AssemblyName>DimitriVranken.Hal.Tests</AssemblyName>
     <PackageId>Hal.Tests</PackageId>
     <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
     <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
